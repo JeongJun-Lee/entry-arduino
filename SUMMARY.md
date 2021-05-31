@@ -8,5 +8,6 @@
   * [3.2 아두이노와 연결하기](coding_start/hw_connect.md)
   * [3.3 디지털 신호와 아날로그 신호](coding_start/4.1.md)
   * [3.4 Hello World 코딩](coding_start/hello-world.md)
+  * [3.5 코드 업로딩하기](coding_start/code_uplaod.md)
 * [4. 아두이노 보드 기본](electron_basic.md)
 
