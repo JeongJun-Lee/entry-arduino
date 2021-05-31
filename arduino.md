@@ -3,7 +3,7 @@
 아두이노는 2005년 이탈리아 이브레아\(Ivrea\) 지방 인터렉션 디자인 전문학교\(IDII: Interaction Desigin Institute Ivrea\)의 마시모 반지\(Massimo Banzi\)와 데이비드 쿠아르티에예스\(David Cuartielles\), 두 교수로 부터 출발했습니다. 해당 학교는 예술과 기술이 접목된 예술작품 구현을 교육하는 하는 곳으로 미디어 아트\(Media Art\)같은 작품을 만들기 위해서는 하드웨어를 프로그래밍으로 제어\(다른 표현으로 피지컬 컴퓨팅\)하는 지식이 반드시 필요했는데, 하드웨어 미숙련자 및 기술 분야 비전공 학생들을 위해 기초적인 지식만으로도 쉽게 프로그램 작성이 가능하고, 또한 저렴하게 구입 가능한 하드웨어 제어용 마이크로트롤러\(Microcontroller\)\* 보드를 개발하고자 했던 것으로부터 시작했습니다.
 
 {% hint style="info" %}
-마이크로트롤러\(Microcontroller\) 또는  또는 마이크로콘트롤러 유닛\(MCU: MicroController Unit\)는 마이크로프로세서와 입출력 모듈을 하나의 칩으로 만들어 정해진 기능을 수행하는 컴퓨터를 말한다. CPU\(Central Processor Unit\) 코어, 메모리 그리고 프로그램 가능한 입/출력을 가지고 있다. 
+마이크로트롤러\(Microcontroller\) 또는  또는 마이크로 콘트롤러 유닛\(MCU: Micro Controller Unit\)는 마이크로프로세서와 입출력 모듈을 하나의 칩으로 만들어 정해진 기능을 수행하는 컴퓨터를 말한다. CPU\(Central Processor Unit\) 코어, 메모리 그리고 프로그램 가능한 입/출력을 가지고 있다. 
 
 출처: 위키피디아
 
