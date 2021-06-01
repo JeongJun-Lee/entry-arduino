@@ -12,4 +12,9 @@
   * [3.6 블록코딩을 텍스트 코딩으로 변환하기](coding_start/code_transform.md)
 * [4. 아두이노 보드 기본](board_basic/README.md)
   * [4.1 아두이노 입출력 핀 구성](board_basic/input_output.md)
+* [5. 실전 아두이노 블록코딩](block_coding/README.md)
+  * [5.1 디지털 출력 코딩](block_coding/digital_output.md)
+  * [5.2 디지털 입력 코딩](block_coding/digital_input.md)
+  * [5.3 아날로그 출력 코딩](block_coding/analog_output.md)
+  * [5.4 아날로그 입력 코딩](block_coding/analog_input.md)
 
