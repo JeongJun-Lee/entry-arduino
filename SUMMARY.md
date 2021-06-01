@@ -10,6 +10,6 @@
   * [3.4 Hello World 코딩](coding_start/hello-world.md)
   * [3.5 코드 업로드 하기](coding_start/code_uplaod.md)
   * [3.6 블록코딩을 텍스트 코딩으로 변환하기](coding_start/code_transform.md)
-* [4. 아두이노 보드 기본](electron_basic/README.md)
-  * [4.1 아두이노 입출력 핀 구성](electron_basic/4.1.md)
+* [4. 아두이노 보드 기본](board_basic/README.md)
+  * [4.1 아두이노 입출력 핀 구성](board_basic/input_output.md)
 
