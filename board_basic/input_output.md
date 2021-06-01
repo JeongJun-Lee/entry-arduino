@@ -20,3 +20,5 @@
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
+마지막으로 **C++코드에서도 위에서 우리가 배운 디지털 입/출력, 아날로그 입/출력을 위한 4종류의 함수가 있다**는 것으로 이 과를 마무리 하고자 합니다. 이름은 예상하시는데로 digitalWrite / digitalRead, analogWrite / analogRead 이다.
+
