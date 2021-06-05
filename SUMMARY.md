@@ -17,4 +17,6 @@
   * [5.2 디지털 입력 코딩](block_coding/digital_input.md)
   * [5.3 아날로그 출력 코딩](block_coding/analog_output.md)
   * [5.4 아날로그 입력 코딩](block_coding/analog_input.md)
+* [6. 부록](appendix/README.md)
+  * [6.1 저항의 종류와 색 띠 저항값 읽는 법](appendix/6.1.md)
 
