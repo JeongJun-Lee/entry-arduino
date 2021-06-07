@@ -20,4 +20,5 @@
 * [6. 부록](appendix/README.md)
   * [6.1 저항의 종류와 색 띠 저항값 읽는 법](appendix/resistor_value.md)
   * [6.2 PIR 센서모듈 설정 방법](appendix/pir_sensor.md)
+  * [6.3 조도 센서의 특성과 저항값 계산](appendix/photoresistor.md)
 
