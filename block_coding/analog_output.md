@@ -6,5 +6,5 @@
 
 PWM에 대한 이해는 [3.3장](../coding_start/4.1.md#analog-output)에서 알려드린 [유투브 동영상](https://www.youtube.com/watch?v=yhpk4V9w-ZM)을 통해 충분히 이해했다는 전제하에 PWM의 추가적인 설명없이 진행하겠습니다. **아두이노 블록코딩에서는** [**3.3장**](../coding_start/4.1.md#analog-output)**의 그림에서 언급한 것처 PWM 핀 전용 블록이 있고, 0v~5v까지의 출력전압값을 아날로그적으로 표현하기 위해 0~255까지 값으로 설정**할 수 있습니다. 천천히 LED를 밝히고 다시 어둡게 하기 위해 이번에는 변수값을 사용해 10ms 시간 간격으로 255단계로 값을 높혔다가 줄였다를 반복하고 있습니다. 해당 내용을 블록코딩한 내용과[ 엔트리 커스텀 버전](https://github.com/JeongJun-Lee/entry-offline)에서 블록코드를 아두이노 C++로 변환한 내용은 다음과 같습니다. C++코드에서 전과 다른 점은 아날로그 출력이기 때문에 analogWrite 함수를 사용한다는 점입니다.
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
