@@ -6,7 +6,7 @@
 
 먼저, 아두이노 실습에 일반적으로 많이 사용하는 PIR 센서모듈인 HC-SR501의 상세 데이터 시트는 이 [링크](https://www.alldatasheet.com/datasheet-pdf/pdf/1131987/ETC2/HC-SR501.html)에서 확인할 수 있습니다. 아래 그림에서 보는 것처럼 PIR은 한 개의 단일 전자부품이 아닌 몇 개의 전자부품의 집합으로 구성되어 즉 모듈이 되어 한 기능단위를 구성합니다. **PIR 센서 모듈에서 우리가 설정할 수 있는 값은 반복탐지 여부\(Trigger Mode\), 탐지거리\(Detection Distance\), 탐지결과 지연시간\(Time Delay\) 이상 3가지** 입니다. 
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ### ① 반복탐지 여부 \(Trigger Mode\)
 
