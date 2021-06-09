@@ -8,7 +8,7 @@
 
 | 날짜 | 내역 |
 | :--- | :--- |
-| 2021년 6월 8 | 첫 버전\(v1\) 공개 |
+| 2021년 6월 8일 | 첫 버전\(v1\) 공개 |
 
 #### **저자**: JJ \([comseong@](mailto:comseong@gmail.com)[mail.com](mailto:comseong@gmail.com)\)
 
