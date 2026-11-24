@@ -23,4 +23,10 @@
 
 ![](<.gitbook/assets/image (6).png>)
 
+### 여러분의 후원은 컨텐트 제작에 큰 힘이 됩니다!!​​ <mark style="color:$success;">후원해주시는 분들께 작은 선물로....</mark>
+
+* <mark style="color:$success;">\[혜택 1]</mark> 해당 **책 내용 전체를 하나로 묶은 PDF 파일**을 드립니다. (_후원완료 후, **후원하신 날짜와 시각, 입금자명을 적어서** 위에 언급된 저저의 이메일로 메일 한 통 남겨주세요. 해당 메일의 회신으로 파일 보내드리겠습니다. 감사합니다.)_
+* <mark style="color:$success;">\[혜택 2]</mark> 책 내용 버전 업그레이드 시 PDF 파일 무료 업그레이드
+* <mark style="color:$success;">\[혜택 3]</mark> 시리즈 책인 경우 다음편 출간 전 책을 가장 먼저 읽어볼 수 있게 **베타 리더**로 초대
+
 {% include "https://app.gitbook.com/s/6FcF5JzEabIky96TfV3Z/~/reusable/3pUVkHOkYOOZOHKLWWJ5/" %}
